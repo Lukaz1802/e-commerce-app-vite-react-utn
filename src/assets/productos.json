@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Remera Hombre",
+        "descripcion": "Remera Hombre TALLE L",
+        "precio": 4000
+    },
+    {
+        "id": 2,
+        "nombre": "Remera Hombre",
+        "descripcion": "Remera Hombre TALLE XÑ",
+        "precio": 4999
+    },
+    {
+        "id": 3,
+        "nombre": "Pantalon Mujer",
+        "descripcion": "Pantalon Mujer Talle 3",
+        "precio": 3999
+    },
+    {
+        "id": 4,
+        "nombre": "Zapatillas Unisex",
+        "descripcion": "Zapatillas Unisex TALLE 39",
+        "precio": 2499
+    }
+]
